@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  bot-chart:
+  - apiVersion: v2
+    appVersion: 3.3.0
+    created: "2023-04-10T11:05:45.1021335+05:30"
+    description: A Helm chart for Kubernetes
+    digest: a50048a1e92daff34cdc9fa188ca80bf6e5b2496120b5e5ad5b43a3a43584619
+    name: bot-chart
+    type: application
+    urls:
+    - bot-chart-3.3.0.tgz
+    version: 3.3.0
+generated: "2023-04-10T11:05:45.1004432+05:30"
